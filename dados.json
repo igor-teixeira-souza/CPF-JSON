@@ -9,7 +9,7 @@
         "still_competing": "Esta competindo?: Sim",
         "platform": "Plataforma em que joga: PC",
         "link": "https://nirvana.com",
-        "imagem": "<img src='img/nirvana.jpg' width='200px'>"
+        "imagem": "<img src='/img//SEN_Bugha_2019.webp>"
     },
 
     {
@@ -22,7 +22,7 @@
         "still_competing": "Esta competindo?: Sim",
         "platform": "Plataforma em que joga: PC",
         "link": "https://ibm.com",
-        "imagem": "<img src='img/slipknot.jpg' width='200px'>"
+        "imagem": "<img src='/img/FaZe_Mongraal.webp'>"
     },
 
     {
@@ -35,7 +35,7 @@
         "still_competing": "Esta competindo?: Sim",
         "platform": "Plataforma em que joga: PC",
         "link": "https://ibm.com",
-        "imagem": "<img src='img/slipknot.jpg' width='200px'>"
+        "imagem": "<img src='/img/Clix.webp'>"
     },
 
     {
@@ -48,7 +48,7 @@
         "still_competing": "Esta competindo?: Não",
         "platform": "Plataforma em que joga: PC",
         "link": "https://ibm.com",
-        "imagem": "<img src='img/slipknot.jpg' width='200px'>"
+        "imagem": "<img src='/img/benjyfishy-1.webp' "
     },
 
     {
@@ -61,7 +61,7 @@
         "still_competing": "Esta competindo?: Não",
         "platform": "Plataforma em que joga: PC",
         "link": "https://ibm.com",
-        "imagem": "<img src='img/slipknot.jpg' width='200px'>"
+        "imagem": "<img src='/img/NRG_Zayt.webp'>"
     },
 
     {
@@ -74,7 +74,7 @@
         "still_competing": "Esta competindo?: Não",
         "platform": "Plataforma em que joga: PC",
         "link": "https://ibm.com",
-        "imagem": "<img src='img/slipknot.jpg' width='200px'>"
+        "imagem": "<img src='/img/Tfue.webp'>"
     },
 
     {
@@ -87,7 +87,7 @@
         "still_competing": "Esta competindo?: Não",
         "platform": "Plataforma em que joga: PC",
         "link": "https://ibm.com",
-        "imagem": "<img src='img/slipknot.jpg' width='200px'>"
+        "imagem": "<img src='/img/Ninja_29.webp'>"
     },
 
     {
@@ -100,7 +100,7 @@
         "still_competing": "Esta competindo?: Sim",
         "platform": "Plataforma em que joga: PC",
         "link": "https://ibm.com",
-        "imagem": "<img src='img/slipknot.jpg' width='200px'>"
+        "imagem": "<img src='/img/AquA_CDL_2021.png'>"
     },
 
     {
@@ -113,7 +113,7 @@
         "still_competing": "Esta competindo?: Sim",
         "platform": "Plataforma em que joga: PC",
         "link": "https://ibm.com",
-        "imagem": "<img src='img/slipknot.jpg' width='200px'>"
+        "imagem": "<img src='/img/TSM_EpikWhale_2022.webp'>"
     },
 
     {
@@ -126,7 +126,7 @@
         "still_competing": "Esta competindo?: Não",
         "platform": "Plataforma em que joga: PC",
         "link": "https://ibm.com",
-        "imagem": "<img src='img/slipknot.jpg' width='200px'>"
+        "imagem": "<img src='/img/MIN_Vivid_2024.webp'>"
     },
 
     {
@@ -139,7 +139,7 @@
         "still_competing": "Esta competindo?: Sim",
         "platform": "Plataforma em que joga: PC",
         "link": "https://ibm.com",
-        "imagem": "<img src='img/slipknot.jpg' width='200px'>"
+        "imagem": "<img src='/img/Bizzle.webp'>"
     },
 
     {
@@ -152,6 +152,6 @@
         "still_competing": "Esta competindo?: Não",
         "platform": "Plataforma em que joga: PC",
         "link": "https://ibm.com",
-        "imagem": "<img src='img/slipknot.jpg' width='200px'>"
+        "imagem": "<img src='/img/chap.webp'>"
     }
 ]
