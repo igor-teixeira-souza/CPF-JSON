@@ -1,0 +1,157 @@
+[
+    {
+        "id":1,
+        "nickname": "Gamertag: Bugha",
+        "real_name": "Nome verdadeiro: Kyle Giersdorf",
+        "birthdate": "Data de nascimento: 30/12/2002",
+        "cpf": "CPF: 111.222.333-44",
+        "earnings": "Total de ganhos no fortnite: R$ 3.400.000" ,
+        "still_competing": "Esta competindo?: Sim",
+        "platform": "Plataforma em que joga: PC",
+        "link": "https://nirvana.com",
+        "imagem": "<img src='img/nirvana.jpg' width='200px'>"
+    },
+
+    {
+        "id":2,
+        "nickname": "Gamertag: Mongraal",
+        "real_name": "Nome verdadeiro: Kyle Jackson",
+        "birthdate": "Data de nascimento: 13/08/2004",
+        "cpf": "CPF: 555.666.777-88",
+        "earnings": "Total de ganhos no fortnite: R$ 700.000",
+        "still_competing": "Esta competindo?: Sim",
+        "platform": "Plataforma em que joga: PC",
+        "link": "https://ibm.com",
+        "imagem": "<img src='img/slipknot.jpg' width='200px'>"
+    },
+
+    {
+        "id":3,
+        "nickname": "Gamertag: Clix",
+        "real_name": "Nome verdadeiro: Cody Conrod",
+        "birthdate": "Data de nascimento: 07/01/2005",
+        "cpf": "CPF: 123.456.789-00",
+        "earnings": "Total de ganhos no fortnite: R$ 1.800.000",
+        "still_competing": "Esta competindo?: Sim",
+        "platform": "Plataforma em que joga: PC",
+        "link": "https://ibm.com",
+        "imagem": "<img src='img/slipknot.jpg' width='200px'>"
+    },
+
+    {
+        "id":4,
+        "nickname": "Gamertag: Benjyfishy",
+        "real_name": "Nome verdadeiro: Benjy David Fish",
+        "birthdate": "Data de nascimento: 02/04/2004",
+        "cpf": "CPF: 987.654.321-00",
+        "earnings": "Total de ganhos no fortnite: R$ 600.000",
+        "still_competing": "Esta competindo?: Não",
+        "platform": "Plataforma em que joga: PC",
+        "link": "https://ibm.com",
+        "imagem": "<img src='img/slipknot.jpg' width='200px'>"
+    },
+
+    {
+        "id":5,
+        "nickname": "Gamertag: Zayt",
+        "real_name": "Nome verdadeiro: Williams Aubin",
+        "birthdate": "Data de nascimento: 02/11/2000",
+        "cpf": "CPF: 101.202.303-44",
+        "earnings": "Total de ganhos no Fortnite: R$ 1.200.000",
+        "still_competing": "Esta competindo?: Não",
+        "platform": "Plataforma em que joga: PC",
+        "link": "https://ibm.com",
+        "imagem": "<img src='img/slipknot.jpg' width='200px'>"
+    },
+
+    {
+        "id":6,
+        "nickname": "Gamertag: Tfue",
+        "real_name": "Nome verdadeiro: Turner Tenney",
+        "birthdate": "Data de nascimento: 02/01/1998",
+        "cpf": "CPF: 404.505.606-77",
+        "earnings": "Total de ganhos no Fortnite: R$ 1.400.000",
+        "still_competing": "Esta competindo?: Não",
+        "platform": "Plataforma em que joga: PC",
+        "link": "https://ibm.com",
+        "imagem": "<img src='img/slipknot.jpg' width='200px'>"
+    },
+
+    {
+        "id":7,
+        "nickname": "Gamertag: Ninja",
+        "real_name": "Nome verdadeiro: Richard Tyler Blevins",
+        "birthdate": "Data de nascimento: 05/06/1991",
+        "cpf": "CPF: 707.808.909-00",
+        "earnings": "Total de ganhos no Fortnite: R$ 500.000",
+        "still_competing": "Esta competindo?: Não",
+        "platform": "Plataforma em que joga: PC",
+        "link": "https://ibm.com",
+        "imagem": "<img src='img/slipknot.jpg' width='200px'>"
+    },
+
+    {
+        "id":8,
+        "nickname": "Gamertag: Aqua",
+        "real_name": "Nome verdadeiro: David Wang",
+        "birthdate": "Data de nascimento: 28/03/2002",
+        "cpf": "CPF: 202.303.404-55",
+        "earnings": "Total de ganhos no Fortnite: R$ 1.800.000",
+        "still_competing": "Esta competindo?: Sim",
+        "platform": "Plataforma em que joga: PC",
+        "link": "https://ibm.com",
+        "imagem": "<img src='img/slipknot.jpg' width='200px'>"
+    },
+
+    {
+        "id":9,
+        "nickname": "Gamertag: EpikWhale",
+        "real_name": "Nome verdadeiro: Shane Cotton",
+        "birthdate": "Data de nascimento: 03/08/2002",
+        "cpf": "CPF: 909.101.111-22",
+        "earnings": "Total de ganhos no Fortnite: R$ 1.500.000",
+        "still_competing": "Esta competindo?: Sim",
+        "platform": "Plataforma em que joga: PC",
+        "link": "https://ibm.com",
+        "imagem": "<img src='img/slipknot.jpg' width='200px'>"
+    },
+
+    {
+        "id":10,
+        "nickname": "Gamertag: Vivid",
+        "real_name": "Nome verdadeiro: Noah Wright",
+        "birthdate": "Data de nascimento: 28/04/1999",
+        "cpf": "CPF: 112.223.334-55",
+        "earnings": "Total de ganhos no Fortnite: R$ 800.000",
+        "still_competing": "Esta competindo?: Não",
+        "platform": "Plataforma em que joga: PC",
+        "link": "https://ibm.com",
+        "imagem": "<img src='img/slipknot.jpg' width='200px'>"
+    },
+
+    {
+        "id":11,
+        "nickname": "Gamertag: Bizzle",
+        "real_name": "Nome verdadeiro: Timothy Miller",
+        "birthdate": "Data de nascimento: 08/05/1998",
+        "cpf": "CPF: 122.334.455-66",
+        "earnings": "Total de ganhos no fortnite: R$ 700.000",
+        "still_competing": "Esta competindo?: Sim",
+        "platform": "Plataforma em que joga: PC",
+        "link": "https://ibm.com",
+        "imagem": "<img src='img/slipknot.jpg' width='200px'>"
+    },
+
+    {
+        "id":12,
+        "nickname": "Gamertag: Chap",
+        "real_name": "Nome verdadeiro: Ryan Chaplo",
+        "birthdate": "Data de nascimento: 13/10/1994",
+        "cpf": "CPF: 332.443.554-77",
+        "earnings": "Total de ganhos no fortnite: R$ 600.000",
+        "still_competing": "Esta competindo?: Não",
+        "platform": "Plataforma em que joga: PC",
+        "link": "https://ibm.com",
+        "imagem": "<img src='img/slipknot.jpg' width='200px'>"
+    }
+]
