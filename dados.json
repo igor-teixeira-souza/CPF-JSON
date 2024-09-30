@@ -20,7 +20,7 @@
         "earnings": "Total de ganhos no fortnite: R$ 700.000",
         "still_competing": "Esta competindo?: Sim",
         "platform": "Plataforma em que joga: PC",
-        "imagem": "<img src='/img/FaZe_Mongraal.webp'>"
+        "imagem": "<img src='./img/FaZe_Mongraal.webp'>"
     },
 
     {
@@ -32,7 +32,7 @@
         "earnings": "Total de ganhos no fortnite: R$ 1.800.000",
         "still_competing": "Esta competindo?: Sim",
         "platform": "Plataforma em que joga: PC",
-        "imagem": "<img src='/img/Clix.webp'>"
+        "imagem": "<img src='./img/Clix.webp'>"
     },
 
     {
@@ -44,7 +44,7 @@
         "earnings": "Total de ganhos no fortnite: R$ 600.000",
         "still_competing": "Esta competindo?: Não",
         "platform": "Plataforma em que joga: PC",
-        "imagem": "<img src='/img/benjyfishy-1 (1).webp'>"
+        "imagem": "<img src='./img/benjyfishy-1 (1).webp'>"
     },
 
     {
@@ -56,7 +56,7 @@
         "earnings": "Total de ganhos no Fortnite: R$ 1.200.000",
         "still_competing": "Esta competindo?: Não",
         "platform": "Plataforma em que joga: PC",
-        "imagem": "<img src='/img/NRG_Zayt.webp'>"
+        "imagem": "<img src='./img/NRG_Zayt.webp'>"
     },
 
     {
@@ -68,7 +68,7 @@
         "earnings": "Total de ganhos no Fortnite: R$ 1.400.000",
         "still_competing": "Esta competindo?: Não",
         "platform": "Plataforma em que joga: PC",
-        "imagem": "<img src='/img/Tfue.webp'>"
+        "imagem": "<img src='./img/Tfue.webp'>"
     },
 
     {
@@ -80,7 +80,7 @@
         "earnings": "Total de ganhos no Fortnite: R$ 500.000",
         "still_competing": "Esta competindo?: Não",
         "platform": "Plataforma em que joga: PC",
-        "imagem": "<img src='/img/Ninja_29.webp'>"
+        "imagem": "<img src='./img/Ninja_29.webp'>"
     },
 
     {
@@ -92,7 +92,7 @@
         "earnings": "Total de ganhos no Fortnite: R$ 1.800.000",
         "still_competing": "Esta competindo?: Sim",
         "platform": "Plataforma em que joga: PC",
-        "imagem": "<img src='/img/AquA_CDL_2021.png'>"
+        "imagem": "<img src='./img/AquA_CDL_2021.png'>"
     },
 
     {
@@ -104,7 +104,7 @@
         "earnings": "Total de ganhos no Fortnite: R$ 1.500.000",
         "still_competing": "Esta competindo?: Sim",
         "platform": "Plataforma em que joga: PC",
-        "imagem": "<img src='/img/TSM_EpikWhale_2022.webp'>"
+        "imagem": "<img src='./img/TSM_EpikWhale_2022.webp'>"
     },
 
     {
@@ -116,7 +116,7 @@
         "earnings": "Total de ganhos no Fortnite: R$ 800.000",
         "still_competing": "Esta competindo?: Não",
         "platform": "Plataforma em que joga: PC",
-        "imagem": "<img src='/img/MIN_Vivid_2024.webp'>"
+        "imagem": "<img src='./img/MIN_Vivid_2024.webp'>"
     },
 
     {
@@ -128,7 +128,7 @@
         "earnings": "Total de ganhos no fortnite: R$ 700.000",
         "still_competing": "Esta competindo?: Sim",
         "platform": "Plataforma em que joga: PC",
-        "imagem": "<img src='/img/bizzle (1).webp'>"
+        "imagem": "<img src='./img/bizzle (1).webp'>"
     },
 
     {
@@ -140,6 +140,6 @@
         "earnings": "Total de ganhos no fortnite: R$ 600.000",
         "still_competing": "Esta competindo?: Não",
         "platform": "Plataforma em que joga: PC",
-        "imagem": "<img src='/img/chap.webp'>"
+        "imagem": "<img src='./img/chap.webp'>"
     }
 ]
